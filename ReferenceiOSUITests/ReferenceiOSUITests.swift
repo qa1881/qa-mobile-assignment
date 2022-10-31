@@ -1,5 +1,5 @@
 //
-//  ReferenceiOSUITests2.swift
+//  ReferenceiOSUITests.swift
 //  ReferenceiOSUITests
 //
 //  Created by Alper Gunay on 30.10.22.
